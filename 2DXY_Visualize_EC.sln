@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "2DXY_Visualize_EC", "2DXY_Visualize_EC\2DXY_Visualize_EC.pyproj", "{A47CC644-E665-4EBD-88A9-BE491942FB71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A47CC644-E665-4EBD-88A9-BE491942FB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A47CC644-E665-4EBD-88A9-BE491942FB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32700E8A-934A-44FA-A89D-8B20E25CC581}
+	EndGlobalSection
+EndGlobal
